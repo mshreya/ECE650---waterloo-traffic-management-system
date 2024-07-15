@@ -1,2 +1,2 @@
-# ECE650---waterloo-traffic-management-system
+# ECE650-waterloo-traffic-management-system
 Waterloo Traffic Management System

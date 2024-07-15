@@ -241,9 +241,6 @@ class Graph():
 	
 def main():
     streets = {}
-	#dummy_in = ['a "weber st" (2,-1) (2,2) (5,5) (5,6) (3,8)' , 'a "king st" (4,2) (4,8)' , 'a "dave" (1,4) (5,8)', 'g' , 'c "weber st" (2,1) (2,2)' , 'g']
-	#dummy_in = ['a "weber st" (2,-1) (2,2) (5,5) (5,6) (3,8)' , 'a "king st" (4,2) (4,8)' , 'a "dave" (1,4) (5,8)', 'g']
-	#dummy_in = ['a "weber st" (4,2) (8,4)' , 'a "king st" (6,3) (16,8)' , 'g' ]
     #a=-1
     while (True):
         #a+=1            
@@ -275,7 +272,7 @@ def main():
 
         
         try:
-            if operation == 'a':
+            if operation == 'add':
 
                 if len(street_name) < 1:
                     print("Error! Street name is not entered")
@@ -294,7 +291,7 @@ def main():
                 
                 streets[street_name] = coorlist            
             
-            elif operation == 'c':
+            elif operation == 'mod':
                 if len(street_name) < 1:
                     print("Error! Street name is not entered")
                     continue
@@ -315,7 +312,7 @@ def main():
                 #print(streets)
 
             
-            elif operation == 'r':
+            elif operation == 'rm':
                 if len(street_name) < 1:
                     print("Error! Street name is not entered")
                     continue
@@ -330,7 +327,7 @@ def main():
                 del streets[street_name]
 
             
-            elif operation == 'g':
+            elif operation == 'gg':
                 if len(streets) == 0:
                     print("Error: No streets")
                     continue

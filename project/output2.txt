@@ -1,0 +1,121 @@
+Vertex no5
+Mean of CNF:268.7
+Std Deviation CNF:61.358
+Mean of VC1:24.1
+Std Deviation VC1:39.6496
+Mean of VC2:18.9
+Std Deviation VC2:25.1374
+Mean of approx of VC1:1.00
+Std Deviation approx of VC1:0.00
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no6
+Mean of CNF:365
+Std Deviation CNF:78.169
+Mean of VC1:19.3
+Std Deviation VC1:35.1712
+Mean of VC2:22.5
+Std Deviation VC2:32.4569
+Mean of approx of VC1:1.00
+Std Deviation approx of VC1:0.00
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no7
+Mean of CNF:751.9
+Std Deviation CNF:260.938
+Mean of VC1:15.6
+Std Deviation VC1:19.0116
+Mean of VC2:14.3
+Std Deviation VC2:11.8748
+Mean of approx of VC1:1.00
+Std Deviation approx of VC1:0.00
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no8
+Mean of CNF:2535.1
+Std Deviation CNF:4114.97
+Mean of VC1:28.1
+Std Deviation VC1:33.7208
+Mean of VC2:19.9
+Std Deviation VC2:25.7272
+Mean of approx of VC1:1.02
+Std Deviation approx of VC1:0.07
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no9
+Mean of CNF:11964.1
+Std Deviation CNF:10483.9
+Mean of VC1:26.3
+Std Deviation VC1:27.4702
+Mean of VC2:18.1
+Std Deviation VC2:11.1036
+Mean of approx of VC1:1.04
+Std Deviation approx of VC1:0.09
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no10
+Mean of CNF:14689.3
+Std Deviation CNF:6030.03
+Mean of VC1:28.6
+Std Deviation VC1:28.5068
+Mean of VC2:19.7
+Std Deviation VC2:20.2438
+Mean of approx of VC1:1.02
+Std Deviation approx of VC1:0.06
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no11
+Mean of CNF:105750
+Std Deviation CNF:59584
+Mean of VC1:30.3
+Std Deviation VC1:22.5346
+Mean of VC2:15.6
+Std Deviation VC2:2.57682
+Mean of approx of VC1:1.06
+Std Deviation approx of VC1:0.09
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no12
+Mean of CNF:156700
+Std Deviation CNF:65626.9
+Mean of VC1:34.2
+Std Deviation VC1:20.0739
+Mean of VC2:24.6
+Std Deviation VC2:20.6504
+Mean of approx of VC1:1.03
+Std Deviation approx of VC1:0.07
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no13
+Mean of CNF:979124
+Std Deviation CNF:919354
+Mean of VC1:26.4
+Std Deviation VC1:21.5184
+Mean of VC2:27.5
+Std Deviation VC2:31.2866
+Mean of approx of VC1:1.01
+Std Deviation approx of VC1:0.04
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no14
+Mean of CNF:4.07868e+06
+Std Deviation CNF:5.12578e+06
+Mean of VC1:31.4
+Std Deviation VC1:23.8923
+Mean of VC2:25.7
+Std Deviation VC2:15.0137
+Mean of approx of VC1:1.01
+Std Deviation approx of VC1:0.04
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00
+Vertex no15
+Mean of CNF:1.04318e+07
+Std Deviation CNF:1.64684e+07
+Mean of VC1:36.8
+Std Deviation VC1:33.382
+Mean of VC2:35.6
+Std Deviation VC2:39.4999
+Mean of approx of VC1:1.01
+Std Deviation approx of VC1:0.04
+Mean of approx of VC2:0.00
+Std Deviation approx of VC2:0.00

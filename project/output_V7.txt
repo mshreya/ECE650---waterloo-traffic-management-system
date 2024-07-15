@@ -1,0 +1,59 @@
+
+CNF-SAT-VC Runtime: 3248.33 
+APPROX-VC-1 Runtime: 2478.75 
+APPROX-VC-2 Runtime: 4071.72 
+
+
+
+CNF-SAT-VC Runtime: 5396.19 
+APPROX-VC-1 Runtime: 4629.75 
+APPROX-VC-2 Runtime: 6247.91 
+
+
+
+CNF-SAT-VC Runtime: 7715.14 
+APPROX-VC-1 Runtime: 6741.69 
+APPROX-VC-2 Runtime: 6822.64 
+
+
+
+CNF-SAT-VC Runtime: 9670.43 
+APPROX-VC-1 Runtime: 10328.89 
+APPROX-VC-2 Runtime: 10296.23 
+
+
+
+CNF-SAT-VC Runtime: 12407.41 
+APPROX-VC-1 Runtime: 10814.78 
+APPROX-VC-2 Runtime: 10934.39 
+
+
+
+CNF-SAT-VC Runtime: 16269.69 
+APPROX-VC-1 Runtime: 14476.03 
+APPROX-VC-2 Runtime: 14606.27 
+
+
+
+CNF-SAT-VC Runtime: 19962.65 
+APPROX-VC-1 Runtime: 18546.05 
+APPROX-VC-2 Runtime: 21388.89 
+
+
+
+CNF-SAT-VC Runtime: 22596.66 
+APPROX-VC-1 Runtime: 21907.22 
+APPROX-VC-2 Runtime: 23342.39 
+
+
+
+CNF-SAT-VC Runtime: 25142.39 
+APPROX-VC-1 Runtime: 23860.15 
+APPROX-VC-2 Runtime: 26431.06 
+
+
+
+CNF-SAT-VC Runtime: 28566.54 
+APPROX-VC-1 Runtime: 27151.86 
+APPROX-VC-2 Runtime: 27179.86 
+

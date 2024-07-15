@@ -1,0 +1,60 @@
+
+CNF-SAT-VC Runtime: 46526.7 
+APPROX-VC-1 Runtime: 3065.44 
+APPROX-VC-2 Runtime: 4542.58 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 49798.18 
+APPROX-VC-1 Runtime: 47097.92 
+APPROX-VC-2 Runtime: 47123.59 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 68568.71 
+APPROX-VC-1 Runtime: 50301.43 
+APPROX-VC-2 Runtime: 50340.59 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 82036.05 
+APPROX-VC-1 Runtime: 69037.02 
+APPROX-VC-2 Runtime: 69057.54 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 112524.75 
+APPROX-VC-1 Runtime: 82558.54 
+APPROX-VC-2 Runtime: 83600.96 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 141542.32 
+APPROX-VC-1 Runtime: 113023.66 
+APPROX-VC-2 Runtime: 114372.09 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 179674.74 
+APPROX-VC-1 Runtime: 143360.44 
+APPROX-VC-2 Runtime: 143707.64 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 211786.93 
+APPROX-VC-1 Runtime: 180197.09 
+APPROX-VC-2 Runtime: 180438.15 
+Approximation Ratio for APPROX-VC-1:  1.20
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 236072.23 
+APPROX-VC-1 Runtime: 212280.20 
+APPROX-VC-2 Runtime: 212703.65 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00
+
+CNF-SAT-VC Runtime: 260966.88 
+APPROX-VC-1 Runtime: 236582.16 
+APPROX-VC-2 Runtime: 237594.07 
+Approximation Ratio for APPROX-VC-1:  1.00
+Approximation Ratio for APPROX-VC-2:  0.00

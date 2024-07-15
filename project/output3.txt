@@ -1,0 +1,40 @@
+Vertex no20
+Mean of VC1:37.1
+Std Deviation VC1:29.1186
+Mean of VC2:34.3
+Std Deviation VC2:31.7019
+Vertex no20
+Mean of VC1:32.1
+Std Deviation VC1:31.8102
+Mean of VC2:25.7
+Std Deviation VC2:26.8293
+Vertex no25
+Mean of VC1:30.3
+Std Deviation VC1:15.2843
+Mean of VC2:24.9
+Std Deviation VC2:20.6274
+Vertex no30
+Mean of VC1:39.8
+Std Deviation VC1:23.8235
+Mean of VC2:29.1
+Std Deviation VC2:17.1898
+Vertex no35
+Mean of VC1:46
+Std Deviation VC1:32.8512
+Mean of VC2:31.5
+Std Deviation VC2:24.7921
+Vertex no40
+Mean of VC1:54.2
+Std Deviation VC1:28.3471
+Mean of VC2:24.9
+Std Deviation VC2:28.4445
+Vertex no45
+Mean of VC1:51.5
+Std Deviation VC1:12.052
+Mean of VC2:20.3
+Std Deviation VC2:21.712
+Vertex no50
+Mean of VC1:52.8
+Std Deviation VC1:12.1721
+Mean of VC2:18.7
+Std Deviation VC2:27.441

@@ -19,10 +19,10 @@ The input comprises lines each of which specifies a command. There are 4 kinds o
 
 Here is an example of how your program should work. Visualizing this example using the Cartesian coordinate system may help you understand what’s going on.
 ```Python
-a "Weber Street" (2,-1) (2,2) (5,5) (5,6) (3,8)
-a "King Street S" (4,2) (4,8)
-a "Davenport Road" (1,4) (5,8)
-g
+add "Weber Street" (2,-1) (2,2) (5,5) (5,6) (3,8)
+add "King Street S" (4,2) (4,8)
+add "Davenport Road" (1,4) (5,8)
+gg
 V={
   1: (2,2) 
   2: (4,2) 
@@ -50,10 +50,10 @@ E={
 ```
 
 #### Commands
-* a is used to add a street. It is specified as: “a "Street Name" (x1, y1) (x2, y2) . . . (xn, yn)”. Each (xi, yi) is a GPS coordinate. We interpret the coordinates as a poly-line segment. That is, we draw a line segment from (xi, yi) to (xi+1, yi+1). You are allowed to assume that each xi and yi is an integer. (Note, however, that the coordinates of an intersection may not be integers.)
-* c is used to change the specification of a street. Its format is the same as for a. It is a new specification for a street you’ve specified before.
-* r is used to remove a street. It is specified as “r "Street Name"”. 
-* g causes the program to output the corresponding graph.
+* add is used to add a street. It is specified as: “add "Street Name" (x1, y1) (x2, y2) . . . (xn, yn)”. Each (xi, yi) is a GPS coordinate. We interpret the coordinates as a poly-line segment. That is, we draw a line segment from (xi, yi) to (xi+1, yi+1). You are allowed to assume that each xi and yi is an integer. (Note, however, that the coordinates of an intersection may not be integers.)
+* mod is used to change the specification of a street. Its format is the same as for add. It is a new specification for a street you’ve specified before.
+* rm is used to remove a street. It is specified as “rm "Street Name"”. 
+* gg causes the program to output the corresponding graph.
 
 ### A2
 For this assignment, you need to write a program that takes input till it sees an EOF.
@@ -70,7 +70,7 @@ E {<2,6>,<2,8>,<2,5>,<6,5>,<5,8>,<6,10>,<10,8>} s 2 10
 2-8-10
 V5
 E {<0,2>,<2,1>,<2,3>,<3,4>,<4,1>}
-s40
+s 40
 4-1-2-0
 ```
 
